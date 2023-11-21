@@ -24,10 +24,14 @@ The inspiration for "AR Eminence: The Future Concert Experience" emerged from th
 
 
 ## Project Showcase
-[Link to Demo Video or Screenshots]
+![image](https://github.com/aaron1-z/AR-concert/assets/77638360/f7cd9271-b348-49ab-80c4-6866b316690c)
 
-## How to Contribute
-We welcome contributions and feedback! If you'd like to contribute, please follow the steps outlined in [CONTRIBUTING.md](link-to-contributing.md).
+
+## Project Link 
+
+## Click here to view : https://adobeaero.app.link/Sh5MznGqTEb
+
+
 
 ## Challenges and Learning
 Our journey involved overcoming challenges in optimizing performance, balancing interactivity, and aligning geospatial tracking with virtual elements.  
